@@ -37,4 +37,5 @@ To run the project locally, follow these steps:
 1.  The system takes the title of a movie as input from the user.
 2.  It uses a pre-trained machine learning model (cosine similarity) to find similar movies from the dataset.
 3.  The top 5 recommended movies are displayed along with their posters fetched from the TMDb API.
-
+## USE MY WEB APP
+https://movie-recommender-ilaotfhhttwldpdfnyu4se.streamlit.app/
